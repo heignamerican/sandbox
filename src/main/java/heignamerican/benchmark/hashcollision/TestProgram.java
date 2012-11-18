@@ -1,4 +1,4 @@
-package hashbench;
+package heignamerican.benchmark.hashcollision;
 
 public class TestProgram {
 	public static void main(final String[] args) {

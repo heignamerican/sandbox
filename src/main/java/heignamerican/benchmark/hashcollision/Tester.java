@@ -1,4 +1,4 @@
-package hashbench;
+package heignamerican.benchmark.hashcollision;
 
 import java.util.HashSet;
 import java.util.Set;

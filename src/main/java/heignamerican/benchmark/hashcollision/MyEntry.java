@@ -1,4 +1,4 @@
-package hashbench;
+package heignamerican.benchmark.hashcollision;
 
 public abstract class MyEntry {
 	public static int CALLED_COUNT = 0;

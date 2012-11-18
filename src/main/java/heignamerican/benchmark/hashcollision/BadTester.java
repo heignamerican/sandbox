@@ -1,4 +1,4 @@
-package hashbench;
+package heignamerican.benchmark.hashcollision;
 
 public class BadTester extends Tester {
 	private final int mSize;
